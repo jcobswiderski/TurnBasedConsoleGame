@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/Documents/GraTurowaS22773/Creature.cpp
+Creature.h
+C:/Users/Admin/Documents/GraTurowaS22773/Creature.h
+iostream
+-
+
+C:/Users/Admin/Documents/GraTurowaS22773/Creature.h
+string
+-
+CreatureType.h
+C:/Users/Admin/Documents/GraTurowaS22773/CreatureType.h
+SpecialPower.h
+C:/Users/Admin/Documents/GraTurowaS22773/SpecialPower.h
+
+C:/Users/Admin/Documents/GraTurowaS22773/CreatureType.h
+
+C:/Users/Admin/Documents/GraTurowaS22773/SpecialPower.h
+
+C:/Users/Admin/Documents/GraTurowaS22773/main.cpp
+iostream
+-
+Creature.h
+C:/Users/Admin/Documents/GraTurowaS22773/Creature.h
+windows.h
+-
+cstdlib
+-
+fstream
+-
+ctime
+-
+
